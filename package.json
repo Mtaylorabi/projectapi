@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos e Marius",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hapi": "^18.1.0",
+    "hapi-cors": "^1.0.3"
+  }
+}
